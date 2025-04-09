@@ -12,6 +12,6 @@ As my background is within research and life sciences, the software I have used 
 
 ### 💡 Previous coding projects
 
-### 📬 Would you like to connect? 
+### 📬 Let's connect! 
 
 [LinkedIn](https://www.linkedin.com/in/andrew-heggli/)
