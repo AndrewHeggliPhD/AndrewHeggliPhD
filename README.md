@@ -1,4 +1,4 @@
-# Who is Dr. Andrew Heggli? 👨‍🔬📈
+# Who is Dr. Andrew Heggli? 👨‍💼📈
 
 Hi, I'm Andrew! 👋 I am a data analyst with a Phd in Applied statistics from the Norwegian University of Life Sciences. I love coding and statistics and have expertise in: 
 
