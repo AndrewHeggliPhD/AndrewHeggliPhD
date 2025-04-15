@@ -12,6 +12,15 @@ As my background is within research and life sciences, the software I have used 
 
 ### 💡 Previous coding projects
 
+[Paper I](https://github.com/AndrewHeggliPhD/Paper-I)
+from my PhD
+
+[Paper II](https://github.com/AndrewHeggliPhD/Paper-II)
+from my PhD
+
+[Library](https://github.com/AndrewHeggliPhD/AutomaticLibrary)
+creation with automatic, scheduled updates (Post PhD)
+
 ### 📬 Let's connect! 
 
 [LinkedIn](https://www.linkedin.com/in/andrew-heggli/)
