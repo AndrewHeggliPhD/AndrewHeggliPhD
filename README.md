@@ -7,7 +7,7 @@ I am a **PhD Applied Statistician** and **Quantitative Researcher** based in Osl
 I specialize in separating systematic signal from random noise using **Linear Mixed Models (LMM)** and **Multivariate Regression**, and have extensive experience working with complex, hierarchical datasets.
 
 **My Technical Toolkit:**
-*   **Languages:** R (Advanced proficiency: `lme4`, `tidyverse`, base R).
+*   **Language:** R (Advanced proficiency: `lme4`, `tidyverse`, base R).
 *   **Modeling:** Hierarchical/Mixed Models, Multivariate Analysis, Residual Analysis & Validation.
 *   **Data Strategy:** Building reproducible pipelines for data cleaning, merging, and integrity verification.
 
