@@ -1,27 +1,33 @@
 # Who is Dr. Andrew Heggli? 👨‍💼📈
 
-Hi, I'm Andrew! 👋 I am a data analyst with a Phd in Applied statistics from the Norwegian University of Life Sciences. I love coding and statistics and have expertise in: 
+Hi, I'm Andrew! 👋 I am a **PhD Applied Statistician** and **Quantitative Researcher** based in Oslo. My background is in biological systems, but my core expertise is statistical logic: distinguishing between prediction and understanding, and building models that accurately reflect the structure of the data. I highly value methodological integrity, as verifying that the assumptions behind a model are met is integral to ensuring results are sound.
 
-- Programming in R (currently learning SQL)
-- Statistical modelling
-- Excel
-- Scientific writing
-- Data visualization
-- Communicating complex data to groups with varied backgrounds
+I specialize in separating systematic signal from random noise using **Linear Mixed Models (LMM)** and **Multivariate Regression**, and have extensive experience working with complex, hierarchical datasets.
 
-As my background is within research and life sciences, the software I have used is popular within academia. I am currently transitioning to working as a data analyst, and I am therefore learning SQL and will move on to PowerBI as soon as possible. 
+**My Technical Toolkit:**
+*   **Languages:** R (Advanced proficiency: `lme4`, `tidyverse`, base R).
+*   **Modeling:** Hierarchical/Mixed Models, Multivariate Analysis, Residual Analysis & Validation.
+*   **Data Strategy:** Building reproducible pipelines for data cleaning, merging, and integrity verification.
 
-### 💡 Previous coding projects
-[Library](https://github.com/AndrewHeggliPhD/AutomaticLibrary)
-creation with automatic, scheduled updates (Post PhD)
+---
 
-[Paper II](https://github.com/AndrewHeggliPhD/Paper-II)
-from my PhD
+### 🏆 Key Projects
 
-[Paper I](https://github.com/AndrewHeggliPhD/Paper-I)
-from my PhD
+[AutomaticLibrary](https://github.com/AndrewHeggliPhD/AutomaticLibrary)
+**Bespoke Data Automation Tool**
+*   **The Problem:** Need to aggregate daily server extracts into a persistent, updateable library.
+*   **The Solution:** Developed a **custom data management script** in R. The system handles incremental data extraction, conflict resolution, and updates via a robust flat-file architecture (.txt), ensuring data integrity. (Post PhD)
+
+[PhD Paper II code](https://github.com/AndrewHeggliPhD/Paper-II)
+**Multivariate Regression & Covariance Structures**
+*   **Methodology:** Applied multivariate regression to model seven correlated yield outcomes simultaneously.
+*   **Key Feature:** Quantified residual covariance structures to capture complex dependencies between variables that standard univariate models would have missed.
+
+[PhD Paper I code](https://github.com/AndrewHeggliPhD/Paper-I)
+**Statistical Validation of Prediction Models**
+*   **Methodology:** Comparative analysis of a objective prediction model vs. human expert classification.
+*   **Key Feature:** Analysis of prediction bias ($\mu$) and variance components to validate industrial implementation.
 
 
 ### 📬 Let's connect! 
-
 [LinkedIn](https://www.linkedin.com/in/andrew-heggli/)
