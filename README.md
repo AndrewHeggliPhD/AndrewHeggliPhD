@@ -1,6 +1,8 @@
 # Who is Dr. Andrew Heggli? 👨‍💼📈
 
-Hi, I'm Andrew! 👋 I am a **PhD Applied Statistician** and **Quantitative Researcher** based in Oslo. My background is in biological systems, but my core expertise is statistical logic: distinguishing between prediction and understanding, and building models that accurately reflect the structure of the data. I highly value methodological integrity, as verifying that the assumptions behind a model are met is integral to ensuring results are sound.
+Hi, I'm Andrew! 👋 
+
+I am a **PhD Applied Statistician** and **Quantitative Researcher** based in Oslo. My background is in biological systems, but my core expertise is statistical logic: distinguishing between prediction and understanding, and building models that accurately reflect the structure of the data. I highly value methodological integrity, as verifying that the assumptions behind a model are met is integral to ensuring results are sound.
 
 I specialize in separating systematic signal from random noise using **Linear Mixed Models (LMM)** and **Multivariate Regression**, and have extensive experience working with complex, hierarchical datasets.
 
