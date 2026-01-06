@@ -15,17 +15,17 @@ I specialize in separating systematic signal from random noise using **Linear Mi
 
 ### 🏆 Key Projects
 
-[AutomaticLibrary](https://github.com/AndrewHeggliPhD/AutomaticLibrary)
+[AutomaticLibrary (Rscript)](https://github.com/AndrewHeggliPhD/AutomaticLibrary)
 **Bespoke Data Automation Tool**
 *   **The Problem:** Need to aggregate daily server extracts into a persistent, updateable library.
 *   **The Solution:** Developed a **custom data management script** in R. The system handles incremental data extraction, conflict resolution, and updates via a robust flat-file architecture (.txt), ensuring data integrity. (Post PhD)
 
-[PhD Paper II code](https://github.com/AndrewHeggliPhD/Paper-II)
+[PhD Paper II (Rscript)](https://github.com/AndrewHeggliPhD/Paper-II)
 **Multivariate Regression & Covariance Structures**
 *   **Methodology:** Applied multivariate regression to model seven correlated yield outcomes simultaneously.
 *   **Key Feature:** Quantified residual covariance structures to capture complex dependencies between variables that standard univariate models would have missed.
 
-[PhD Paper I code](https://github.com/AndrewHeggliPhD/Paper-I)
+[PhD Paper I (Rscript)](https://github.com/AndrewHeggliPhD/Paper-I)
 **Statistical Validation of Prediction Models**
 *   **Methodology:** Comparative analysis of a objective prediction model vs. human expert classification.
 *   **Key Feature:** Analysis of prediction bias ($\mu$) and variance components to validate industrial implementation.
