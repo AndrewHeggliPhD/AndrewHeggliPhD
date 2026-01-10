@@ -8,7 +8,7 @@ I specialize in separating systematic signal from random noise using **Linear Mi
 
 **My Technical Toolkit:**
 *   **Language:** R (Advanced proficiency: `lme4`, `tidyverse`, base R).
-*   **Modeling:** Hierarchical/Mixed Models, Multivariate Analysis, Residual Analysis & Validation.
+*   **Modeling:** Mixed Models, Multivariate Analysis, Residual Analysis & Validation.
 *   **Data Strategy:** Building reproducible pipelines for data cleaning, merging, and integrity verification.
 
 ---
