@@ -15,10 +15,10 @@ I specialize in separating systematic signal from random noise using **Linear Mi
 
 ### 🏆 Key Projects
 
-[AutomaticLibrary (Rscript)](https://github.com/AndrewHeggliPhD/AutomaticLibrary)
+[AutomaticLibrary (R ETL Script)](https://github.com/AndrewHeggliPhD/AutomaticLibrary)
 **Bespoke Data Automation Tool**
 *   **The Problem:** Need to aggregate daily server extracts into a persistent, updateable library.
-*   **The Solution:** Developed a **custom data management script** in R. The system handles incremental data extraction, conflict resolution, and updates via a robust flat-file architecture (.txt), ensuring data integrity. (Post PhD)
+*   **The Solution:** Developed a **custom data management script** in R. The system handles incremental data extraction, state management, and updates via a robust flat-file architecture (.csv/.txt), ensuring data integrity. (Post PhD)
 
 [PhD Paper II (Rscript)](https://github.com/AndrewHeggliPhD/Paper-II)
 **Multivariate Regression & Covariance Structures**
