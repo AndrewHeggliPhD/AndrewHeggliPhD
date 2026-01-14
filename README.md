@@ -4,11 +4,9 @@ Hi, I'm Andrew! 👋
 
 I am a **PhD Applied Statistician** and **Quantitative Researcher** based in Oslo. My background is in biological systems, but my core expertise is statistical logic : distinguishing between prediction and understanding, and building models that accurately reflect the structure of the data. I highly value methodological integrity, as verifying that the assumptions behind a model are met is integral to ensuring results are sound.
 
-I specialize in separating systematic signal from random noise using **Linear Mixed Models (LMM)** and **Multivariate Regression**, and have extensive experience working with complex, hierarchical datasets.
-
 **My Technical Toolkit:**
 *   **Language:** R (Advanced proficiency: `lme4`, `tidyverse`, base R).
-*   **Modeling:** Mixed Models, Multivariate Analysis, Residual Analysis & Validation.
+*   **Modeling:** Linear Mixed Models, Multivariate Analysis, Residual Analysis & Validation.
 *   **Data Strategy:** Building reproducible pipelines for data cleaning, merging, and integrity verification.
 
 ---
